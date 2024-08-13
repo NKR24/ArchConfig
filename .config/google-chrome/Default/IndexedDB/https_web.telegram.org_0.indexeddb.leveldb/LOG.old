@@ -1,0 +1,7 @@
+2024/08/13-18:28:13.209 8a78 Reusing MANIFEST /home/unixelf/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/13-18:28:13.210 8a78 Recovering log #3
+2024/08/13-18:28:13.252 8a78 Reusing old log /home/unixelf/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000003.log 
+2024/08/13-18:28:45.228 8a79 Level-0 table #5: started
+2024/08/13-18:28:45.249 8a79 Level-0 table #5: 1218851 bytes OK
+2024/08/13-18:28:45.253 8a79 Delete type=0 #3
+2024/08/13-18:28:45.253 8a79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
